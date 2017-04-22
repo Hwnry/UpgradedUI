@@ -1,0 +1,279 @@
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.pdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.DesignLibrary_Tutorial.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.DesignLibrary_Tutorial-Signed.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Refractored.Controls.CircleImageView.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Refractored.Controls.CircleImageView.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.pdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\bin\DesignLibrary_Tutorial.DesignLibrary_Tutorial.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\include_list_viewpager.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\nav_header.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\menu\drawer_view.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\main.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\strings.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\icon.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_1.jpg
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_2.jpg
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_3.jpg
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_4.jpg
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_5.jpg
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\mapmockup.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_dashboard.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_discuss.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_done.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_event.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_forum.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_headset.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_dashboard.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_discuss.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_done.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_event.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_forum.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_headset.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_menu.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_dashboard.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_discuss.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_done.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_event.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_forum.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_headset.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_menu.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_dashboard.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_discuss.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_done.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_event.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_forum.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_headset.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxxhdpi\ic_done.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxxhdpi\ic_menu.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\dimens.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\R.cs.flag
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\uploadflags.txt
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\colors.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\styles.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values-v21\styles.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment1.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment2.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment3.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\list_item.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\activity_detail.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\menu\sample_actions.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\activity_bottomsheet.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.csprojResolveAssemblyReference.cache
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.dll.mdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.DesignLibrary_Tutorial.apk
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.DesignLibrary_Tutorial-Signed.apk
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.dll
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.pdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\bin\DesignLibrary_Tutorial.DesignLibrary_Tutorial.apk
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\include_list_viewpager.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\nav_header.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\menu\drawer_view.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment1.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment2.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment3.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\list_item.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\activity_detail.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\menu\sample_actions.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\activity_bottomsheet.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\main.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\strings.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\icon.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_1.jpg
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_2.jpg
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_3.jpg
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_4.jpg
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_5.jpg
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\mapmockup.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_dashboard.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_discuss.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_done.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_event.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_forum.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_headset.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_dashboard.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_discuss.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_done.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_event.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_forum.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_headset.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_menu.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_dashboard.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_discuss.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_done.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_event.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_forum.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_headset.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_menu.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_dashboard.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_discuss.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_done.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_event.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_forum.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_headset.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxxhdpi\ic_done.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxxhdpi\ic_menu.png
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\dimens.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\colors.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\styles.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values-v21\styles.xml
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\R.cs.flag
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\uploadflags.txt
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.dllDesignLibrary_Tutorial.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\mscorlib.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Core.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Xml.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\DesignLibrary_Tutorial.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Brian\Documents\Visual Studio 2017\Projects\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.pdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.DesignLibrary_Tutorial.apk
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.DesignLibrary_Tutorial-Signed.apk
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Newtonsoft.Json.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Refractored.Controls.CircleImageView.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Newtonsoft.Json.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Refractored.Controls.CircleImageView.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.csprojResolveAssemblyReference.cache
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.dll
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.pdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\bin\DesignLibrary_Tutorial.DesignLibrary_Tutorial.apk
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\include_list_viewpager.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\nav_header.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\menu\drawer_view.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment1.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment2.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\fragment3.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\list_item.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\activity_detail.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\menu\sample_actions.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\activity_bottomsheet.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\layout\main.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\strings.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\icon.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_1.jpg
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_2.jpg
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_3.jpg
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_4.jpg
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\cheese_5.jpg
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable\mapmockup.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_dashboard.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_discuss.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_done.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_event.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_forum.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-hdpi\ic_headset.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_dashboard.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_discuss.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_done.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_event.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_forum.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_headset.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-mdpi\ic_menu.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_dashboard.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_discuss.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_done.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_event.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_forum.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_headset.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xhdpi\ic_menu.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_dashboard.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_discuss.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_done.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_event.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_forum.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_headset.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxxhdpi\ic_done.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\drawable-xxxhdpi\ic_menu.png
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\dimens.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\colors.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values\styles.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\res\values-v21\styles.xml
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\R.cs.flag
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\uploadflags.txt
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Java.Interop.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Mono.Android.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\Mono.CSharp.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\mscorlib.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Core.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.IO.Compression.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Net.Http.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Numerics.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Xml.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\DesignLibrary_Tutorial.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Numerics.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\DesignLibrary_Tutorial.dll.mdb
+D:\Github\DesignLibrary_Tutorial\DesignLibrary_Tutorial\bin\Debug\DesignLibrary_Tutorial.dll.mdb
